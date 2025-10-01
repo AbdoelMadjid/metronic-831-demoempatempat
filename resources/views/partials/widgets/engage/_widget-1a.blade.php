@@ -7,7 +7,7 @@
             <!--begin::Title-->
             <h1 class="fw-semibold text-gray-800 text-center lh-lg">
                 Have you tried <br /> new
-                <span class="fw-bolder"> eCommerce App ?</span>
+                <span class="fw-bolder"> Invoice Manager ?</span>
             </h1>
             <!--end::Title-->
             <!--begin::Illustration-->
@@ -22,12 +22,12 @@
         <!--begin::Links-->
         <div class="text-center mb-1">
             <!--begin::Link-->
-            <a class="btn btn-sm btn-primary me-2" href="/apps/ecommerce/sales/listing">
-                View App </a>
+            <a class="btn btn-sm btn-primary me-2" href="/apps/ecommerce/customers/listing">
+                Try now </a>
             <!--end::Link-->
             <!--begin::Link-->
-            <a class="btn btn-sm btn-light" href="/apps/ecommerce/catalog/add-product">
-                New Product </a>
+            <a class="btn btn-sm btn-light" href="/apps/invoices/view/invoice-1">
+                Learn more </a>
             <!--end::Link-->
         </div>
         <!--end::Links-->
